@@ -7,9 +7,8 @@ Note: real k-means implementation is significantly faster. Program is held back 
 
 example_k-means usage:
 
-  Compile with:
-  
-  make
+Compile with:
+make
 
   Program requires two arguments:
   1) The number of dimensions the user wants randomly generated data to be.
