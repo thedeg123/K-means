@@ -23,7 +23,9 @@ k-means.c usage:
 
 include:
 "k-means.h"
+
 Call with:
+
   kmeans(int * min_vals, int * max_vals, int CENTROIDS, int DIMENSIONS, double ** pixel_raw_data, int data_points);
 
   min_vals - minimum values of n dimensional data. Each array location represents the
