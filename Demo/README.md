@@ -16,9 +16,11 @@ make
   2) The number of centroids (or "groups") the data should be put into.
 
   Program has optional third argument:
+  
   3) The number of data points to generate.
 
 k-means.c usage:
+
 include:
 "k-means.h"
 Call with:
