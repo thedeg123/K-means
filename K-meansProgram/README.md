@@ -1,5 +1,7 @@
 An implementation of the unsupervised machine learning algorithm k-means.
+
 Written in C.
+
 By David Gold.
 
 k-means.c usage:
