@@ -6,7 +6,9 @@ Note: Average data point distance remains rather high as data points are randoml
 Note: real k-means implementation is significantly faster. Program is held back by printing.
 
 example_k-means usage:
+
   Compile with:
+  
   make
 
   Program requires two arguments:
