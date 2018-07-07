@@ -27,7 +27,7 @@ Note: real k-means implementation is significantly faster. Program is held back 
 
 #### Call with:
 
-###### kmeans(int * min_vals, int * max_vals, int CENTROIDS, int DIMENSIONS, double ** pixel_raw_data, int data_points);
+`kmeans(int * min_vals, int * max_vals, int CENTROIDS, int DIMENSIONS, double ** pixel_raw_data, int data_points);`
 
   ###### min_vals:
   minimum values of n dimensional data. Each array location represents the given dimensions minimum value.
