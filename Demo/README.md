@@ -20,7 +20,7 @@ Note: real k-means implementation is significantly faster. Program is held back 
   
   3) The number of data points to generate.
 
-### k-means.c usage:
+### k-means.h usage:
 
 ##### include:
 "k-means.h"
