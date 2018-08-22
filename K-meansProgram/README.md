@@ -8,6 +8,9 @@
 ##### include:
 "k-means.h"
 
+#### Returns:
+Program returns when centroids have (basically) stopped moving.
+
 #### Call with:
 
 `kmeans(int * min_vals, int * max_vals, int CENTROIDS, int DIMENSIONS, double ** pixel_raw_data, int data_points);`
