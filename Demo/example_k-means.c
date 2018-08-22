@@ -15,7 +15,7 @@ int dimensions=0;
 int centroids=0;
 int data_points=150;
 if(argc<3){
-  printf("Required command line arguments: number of dimensions for data followed by number of centroids.\n");
+  printf("Required command line arguments: number of dimensions for data followed by number of centroids.\nOptional 3rd command line argument: number of data points.\n");
   exit(1);
 }
 dimensions=atoi(argv[1]);
